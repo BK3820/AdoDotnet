@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPloginPractice", "ASPloginPractice.csproj", "{251F2652-F13D-4B1E-943B-ED2AA44C692D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251F2652-F13D-4B1E-943B-ED2AA44C692D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251F2652-F13D-4B1E-943B-ED2AA44C692D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251F2652-F13D-4B1E-943B-ED2AA44C692D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251F2652-F13D-4B1E-943B-ED2AA44C692D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD75B5AA-5179-4D32-9E1A-C7B4EE8FDF18}
+	EndGlobalSection
+EndGlobal
